@@ -1,0 +1,32 @@
+#body{
+	border: 10px solid white;
+	background-color: white;
+}
+.firstid {
+  	font-size: 14pt;
+  	
+}
+.secondid{
+	text-align: right;
+    background-color: #A8F0F0;
+  }
+.thirdid{
+	border:4px solid #C2E9E9;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	overflow: auto;
+}
+span{
+	border-bottom:2px dashed blue;
+}
+body{
+	background-image: url(background.gif);
+}
+.content{
+	max-width: 800px;
+	margin: auto;
+}
+	.img1:hover, .img2:hover{
+	float: right;
+}
